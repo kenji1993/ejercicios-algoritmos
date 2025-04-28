@@ -1,0 +1,17 @@
+{
+  "name": "ejercicios-algoritmos",
+  "version": "1.0.0",
+  "description": "Ejercicios de algoritmos y estructuras de datos en JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
